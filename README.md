@@ -386,7 +386,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ## 👨‍💻 Auteur
 
 **Votre Nom**
-- GitHub: [@votre-username](https://github.com/aymen-afamm)
+- GitHub: https://github.com/aymen-afamm
 - Email: aymenzagnouni@gmail.com
 
 
